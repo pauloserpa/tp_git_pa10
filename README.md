@@ -2,4 +2,4 @@
 
 
 - Mathieu TUDISCO !
-- Antoine NICOLAS;
+- Antoine NICOLAS,
